@@ -4,16 +4,16 @@ Prueba inicial
  * Titulos  
  Cabeceras de 6 tamaños
  * Listas  
- Ordenadas
+ Ordenadas  
  Desordenadas
- * _Cursiva_ y **negreta**
+ * _Cursiva_ y **negrita**
  
 2. Opciones básicas al exterior  
  * Enlacenes  
-  [Prueba URL] (https://rawgit.com/Rocachondo/hello-world/master/Prueba.html)
+  [Prueba URL](https://rawgit.com/Rocachondo/hello-world/master/Prueba.html)
  * Imágenes  
   [Prueba imagen][imagen1]
   
-  [imagen1]: 
+  [imagen1]: https://github.com/Rocachondo/hello-world/blob/master/hqdefault.jpg
 
 
