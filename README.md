@@ -13,8 +13,8 @@ Prueba inicial
   (https://rawgit.com/Rocachondo/hello-world/master/Prueba.html)  
   [Prueba URL2](https://rawgit.com/Rocachondo/hello-world/master/Prueba.html)
  * Imágenes  
-  !(https://github.com/Rocachondo/hello-world/blob/master/hqdefault.jpg)
-  [Prueba imagen][imagen2]
+  ![Prueba imagen](https://github.com/Rocachondo/hello-world/blob/master/hqdefault.jpg)
+  [Prueba imagen2][imagen2]
   
   [imagen2]: https://github.com/Rocachondo/hello-world/blob/master/hqdefault.jpg
 
