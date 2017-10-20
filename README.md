@@ -13,9 +13,12 @@ Prueba inicial
   (https://rawgit.com/Rocachondo/hello-world/master/Prueba.html)  
   [Prueba URL2](https://rawgit.com/Rocachondo/hello-world/master/Prueba.html)
  * Imágenes  
-  ![Prueba imagen](https://github.com/Rocachondo/hello-world/blob/master/hqdefault.jpg)
-  [Prueba imagen2][imagen2]
+  ![Prueba imagen insertada](https://github.com/Rocachondo/hello-world/blob/master/hqdefault.jpg)
+  [Prueba imagen con enlace][imagen2]
   
   [imagen2]: https://github.com/Rocachondo/hello-world/blob/master/hqdefault.jpg
+  
+> Con esto debería ser suficiente por el momento  
+> Saludos
 
 
