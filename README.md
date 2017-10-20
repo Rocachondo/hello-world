@@ -10,10 +10,12 @@ Prueba inicial
  
 2. Opciones básicas al exterior  
  * Enlacenes  
-  [Prueba URL](https://rawgit.com/Rocachondo/hello-world/master/Prueba.html)
+  (https://rawgit.com/Rocachondo/hello-world/master/Prueba.html)
+  [Prueba URL2](https://rawgit.com/Rocachondo/hello-world/master/Prueba.html)
  * Imágenes  
-  [Prueba imagen][imagen1]
+  !(https://github.com/Rocachondo/hello-world/blob/master/hqdefault.jpg)
+  [Prueba imagen][imagen2]
   
-  [imagen1]: https://github.com/Rocachondo/hello-world/blob/master/hqdefault.jpg
+  [imagen2]: https://github.com/Rocachondo/hello-world/blob/master/hqdefault.jpg
 
 
