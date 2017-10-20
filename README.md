@@ -8,10 +8,9 @@ Prueba inicial
  Desordenadas
  * _Cursiva_ y **negrita**
  
-2. Opciones básicas al exterior  
- * Enlacenes  
-  (https://rawgit.com/Rocachondo/hello-world/master/Prueba.html)  
-  [Prueba URL2](https://rawgit.com/Rocachondo/hello-world/master/Prueba.html)
+2. Opciones de enlace
+ * Enlacenes URL  
+  [Prueba URL](https://rawgit.com/Rocachondo/hello-world/master/Prueba.html)
  * Imágenes  
   ![Prueba imagen insertada](https://github.com/Rocachondo/hello-world/blob/master/hqdefault.jpg)
   [Prueba imagen con enlace][imagen2]
