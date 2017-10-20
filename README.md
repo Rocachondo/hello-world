@@ -12,7 +12,7 @@ Prueba inicial
  * Enlacenes URL  
   [Prueba URL](https://rawgit.com/Rocachondo/hello-world/master/Prueba.html)
  * Imágenes  
-  ![Prueba imagen insertada](https://github.com/Rocachondo/hello-world/blob/master/hqdefault.jpg)
+  ![Prueba imagen insertada](https://github.com/Rocachondo/hello-world/blob/master/hqdefault.jpg)  
   [Prueba imagen con enlace][imagen2]
   
   [imagen2]: https://github.com/Rocachondo/hello-world/blob/master/hqdefault.jpg
